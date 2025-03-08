@@ -30,4 +30,4 @@ git lfs pull
 
 
 
-![Description](https://github.com/Trishalaparuchuru/ADHD-Management-Companion-A-Personalised-Tool-For-Symptom-Management/blob/cd594e5fcdf3468718db3c85113e27a5cb42911e/img1.jpg)
+![img 1](https://github.com/Trishalaparuchuru/ADHD-Management-Companion-A-Personalised-Tool-For-Symptom-Management/blob/cd594e5fcdf3468718db3c85113e27a5cb42911e/img1.jpg)
