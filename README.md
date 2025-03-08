@@ -23,5 +23,7 @@ To download the large files, make sure you have **Git LFS installed** before clo
 ```bash
 git lfs install
 git clone https://github.com/Trishalaparuchuru/ADHD-Management-Companion-A-Personalised-Tool-For-Symptom-Management.git
+
+
 If you have already cloned the repo without Git LFS, run:
 git lfs pull
