@@ -14,3 +14,14 @@ TECH STACK:
 Framework: Flutter,
 Language: Dart,
 Platform: Android & iOS.
+
+###  Large Files Notice
+This repository uses **Git LFS (Large File Storage)** to handle large files such as `adhd_new.zip`.  
+
+####  How to Clone This Repo Properly:
+To download the large files, make sure you have **Git LFS installed** before cloning:
+```bash
+git lfs install
+git clone https://github.com/Trishalaparuchuru/ADHD-Management-Companion-A-Personalised-Tool-For-Symptom-Management.git
+If you have already cloned the repo without Git LFS, run:
+git lfs pull
