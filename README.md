@@ -29,5 +29,4 @@ If you have already cloned the repo without Git LFS, run:
 git lfs pull
 
 
-
-![img 1](https://github.com/Trishalaparuchuru/ADHD-Management-Companion-A-Personalised-Tool-For-Symptom-Management/blob/cd594e5fcdf3468718db3c85113e27a5cb42911e/img1.jpg)
+![Image](https://github.com/user-attachments/assets/49644a59-7de0-44f6-884b-14f81f2838ca)
