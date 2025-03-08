@@ -29,4 +29,4 @@ If you have already cloned the repo without Git LFS, run:
 git lfs pull
 
 
-![Image](https://github.com/user-attachments/assets/49644a59-7de0-44f6-884b-14f81f2838ca)
+![Image](https://github.com/user-attachments/assets/9068a54c-e2f2-49d1-a821-8d931f9295f6)
