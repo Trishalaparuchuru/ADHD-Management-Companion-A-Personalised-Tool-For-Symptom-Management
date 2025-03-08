@@ -27,3 +27,9 @@ git clone https://github.com/Trishalaparuchuru/ADHD-Management-Companion-A-Perso
 
 If you have already cloned the repo without Git LFS, run:
 git lfs pull
+
+
+
+
+
+![image alt](https://github.com/Trishalaparuchuru/ADHD-Management-Companion-A-Personalised-Tool-For-Symptom-Management/blob/cd594e5fcdf3468718db3c85113e27a5cb42911e/img1.jpg)
